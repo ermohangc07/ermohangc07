@@ -10,6 +10,8 @@ I teach 300+ students how to think in code — and I build autonomous AI agents 
   <a href="https://goal-driven-agent.streamlit.app"><img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
 </p>
 
+<br>
+
 ---
 
 ### 🧠 My Story
@@ -55,10 +57,6 @@ Outside the classroom, I build **agentic AI systems** — software that doesn't 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ermohangc07&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ermohangc07&hide_border=true" height="165" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermohangc07&layout=compact&hide_border=true" height="165" />
 </p>
 
