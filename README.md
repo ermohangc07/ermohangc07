@@ -89,9 +89,15 @@ flowchart LR
 ### 📊 GitHub stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ermohangc07&show_icons=true&theme=default&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermohangc07&layout=compact&hide_border=true"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=ermohangc07&show_icons=true&theme=default&hide_border=true"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ermohangc07&layout=compact&hide_border=true"/>
 </p>
+
+<!-- Note: the original github-readme-stats.vercel.app project is now archived.
+     The line above uses its actively maintained successor, github-stats-extended.
+     If these still don't render, see the "self-host via GitHub Actions" option
+     in UPGRADE_GUIDE.md — it commits static SVGs to your repo so nothing depends
+     on a third-party server being up. -->
 
 ---
 
