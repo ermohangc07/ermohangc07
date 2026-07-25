@@ -1,0 +1,48 @@
+<svg width="100%" height="220" viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080C14"/>
+      <stop offset="50%" stop-color="#534AB7"/>
+      <stop offset="100%" stop-color="#00E5FF"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#534AB7" stop-opacity="0.35"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF6B35" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0.25"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="220" fill="url(#bg)"/>
+
+  <g>
+    <path fill="url(#wave1)">
+      <animate attributeName="d" dur="7s" repeatCount="indefinite"
+        values="
+          M0,180 C150,140 350,140 500,180 C650,220 850,220 1000,180 L1000,220 L0,220 Z;
+          M0,180 C150,220 350,220 500,180 C650,140 850,140 1000,180 L1000,220 L0,220 Z;
+          M0,180 C150,140 350,140 500,180 C650,220 850,220 1000,180 L1000,220 L0,220 Z"/>
+    </path>
+    <path fill="url(#wave2)">
+      <animate attributeName="d" dur="9s" repeatCount="indefinite"
+        values="
+          M0,200 C200,170 300,230 500,200 C700,170 800,230 1000,200 L1000,220 L0,220 Z;
+          M0,200 C200,230 300,170 500,200 C700,230 800,170 1000,200 L1000,220 L0,220 Z;
+          M0,200 C200,170 300,230 500,200 C700,170 800,230 1000,200 L1000,220 L0,220 Z"/>
+    </path>
+  </g>
+
+  <text x="500" y="98" text-anchor="middle" font-family="'Trebuchet MS', Verdana, sans-serif"
+        font-size="52" font-weight="700" fill="#00E5FF">
+    Mohan G.C.
+    <animate attributeName="opacity" values="0;1" dur="1.2s" begin="0s" fill="freeze"/>
+  </text>
+
+  <text x="500" y="140" text-anchor="middle" font-family="'Trebuchet MS', Verdana, sans-serif"
+        font-size="19" fill="#E6F1FB">
+    Computer Engineer &#183; Agentic AI Builder &#183; Coding &amp; Robotics Instructor
+    <animate attributeName="opacity" values="0;1" dur="1.6s" begin="0.3s" fill="freeze"/>
+  </text>
+</svg>
