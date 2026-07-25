@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080C14,50:534AB7,100:00E5FF&height=220&section=header&text=Mohan%20G.C.&fontSize=60&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%C2%B7%20Agentic%20AI%20Builder%20%C2%B7%20Coding%20%26%20Robotics%20Instructor&descAlignY=58&descSize=18&descColor=E6F1FB" width="100%"/>
+<img src="./assets/banner.svg" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=I+teach+300%2B+students+how+to+think+in+code;I+build+AI+agents+that+think+for+themselves;Plan+%E2%86%92+Execute+%E2%86%92+Reflect+%E2%86%92+Synthesize+%E2%86%92+Stop;Kathmandu%2C+Nepal+%F0%9F%87%B3%F0%9F%87%B5+%C2%B7+Open+to+AI%2FML+roles" alt="Typing SVG" />
@@ -198,7 +198,5 @@ Screens and ranks resumes against a job description, with an in-progress push to
 <div align="center">
 
 ### 💬 *Open to opportunities in AI engineering, agentic systems, and applied ML.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:534AB7,100:080C14&height=120&section=footer" width="100%"/>
 
 </div>
